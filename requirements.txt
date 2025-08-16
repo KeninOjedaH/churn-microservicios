@@ -1,0 +1,12 @@
+fastapi
+pydantic
+python-dotenv
+sqlite3
+twilio
+messaging
+requests
+pandas
+scikit-learn
+joblib
+uvicorn
+openpyxl
